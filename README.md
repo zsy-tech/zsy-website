@@ -1,8 +1,4 @@
-# zsy-website
-
-git clone https://github.com/zsy-tech/zsy-website.git
-cd zsy-website
-# <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -487,6 +483,3 @@ cd zsy-website
 
 </body>
 </html>
-git add .
-git commit -m "Initial commit"
-git push origin main
